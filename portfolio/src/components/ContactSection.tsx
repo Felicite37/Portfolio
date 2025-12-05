@@ -1,4 +1,6 @@
 // components/ContactSection.tsx
+"use client";
+
 export default function ContactSection() {
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
