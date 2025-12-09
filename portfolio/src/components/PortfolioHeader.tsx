@@ -13,7 +13,7 @@ export default function PortfolioHeader() {
           <div className="flex justify-center lg:justify-end">
             <div className="relative w-80 h-80 lg:w-96 lg:h-96 rounded-full border-4 border-yellow-500 shadow-2xl shadow-yellow-500/50 overflow-hidden">
               <img
-                src="/joy.jpeg"
+                src="/Joy.jpeg"
                 alt="Felicite"
                 className="w-full h-full object-cover"
               />
