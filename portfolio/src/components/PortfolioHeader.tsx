@@ -15,7 +15,7 @@ export default function PortfolioHeader() {
               <img
                 src="/joy.jpeg"
                 alt="Felicite"
-                className="w-full h-full object-cover"
+                className="w-full h-full object-cover"read
               />
             </div>
           </div>
