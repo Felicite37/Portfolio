@@ -15,7 +15,7 @@ export default function PortfolioHeader() {
               <img
                 src="/joy.jpeg"
                 alt="Felicite"
-                className="w-full h-full object-cover"read
+                className="w-full h-full object-cover"
               />
             </div>
           </div>
@@ -26,7 +26,7 @@ export default function PortfolioHeader() {
               </span>
             </div>
             <h1 className="text-5xl md:text-7xl font-bold bg-gradient-to-r from-yellow-400 via-yellow-500 to-yellow-600 bg-clip-text text-transparent mb-8 leading-tight">
-              Hi, I'm Felicite
+              Hi, I&apos;m Felicite
             </h1>
             <p className="text-2xl md:text-3xl text-gray-300 mb-6 font-light">
               Crafting beautiful digital experiences
@@ -46,7 +46,7 @@ export default function PortfolioHeader() {
                 onClick={() => scrollToSection("contact")}
                 className="bg-yellow-500 hover:bg-yellow-600 text-black px-10 py-4 rounded-lg text-lg font-semibold transition-all duration-300 shadow-lg shadow-yellow-500/30 hover:shadow-yellow-500/50 hover:scale-105"
               >
-                Let's Talk
+                Let&apos;s Talk
               </button>
               <button
                 onClick={() => scrollToSection("projects")}
